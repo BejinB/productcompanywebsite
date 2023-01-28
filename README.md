@@ -35,6 +35,7 @@ Validate the HTML code.
 Publish the website in the given URL.
 
 ## PROGRAM :
+```
 Home code:
 
 <!DOCTYPE html>
@@ -493,6 +494,7 @@ body {
   text-align: center;
 
 }
+```
 ## OUTPUT:
 
 ### Home Page:
